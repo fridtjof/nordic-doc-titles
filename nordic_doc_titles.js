@@ -58,7 +58,6 @@ function waitForFullLoad() {
 			// tocFrame = window.frames.HelpFrame.frames.NavFrame.frames.ViewsFrame.frames.toc.frames.tocViewFrame;
 			tocFrame = window.frames[2].frames[0].frames[0].frames[0].frames[1];
 			
-			console.log("success!")
 			registerMutationListener()
 		} catch (e) { // something in the chain does not exist yet
 			//ignore errors and try again next time
