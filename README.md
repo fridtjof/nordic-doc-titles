@@ -1,9 +1,14 @@
 # nordic-doc-titles
 
-<img src="https://raw.githubusercontent.com/fridtjof/nordic-doc-titles/main/screenshots/before.png" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/fridtjof/nordic-doc-titles/main/screenshots/after.png" width="30%" height="30%">
+Before:
 
-[Get it here](https://addons.mozilla.org/de/firefox/addon/nordic-doc-titles/)
+<img src="https://raw.githubusercontent.com/fridtjof/nordic-doc-titles/main/screenshots/before.png" width="30%" height="30%">
+
+After:
+
+<img src="https://raw.githubusercontent.com/fridtjof/nordic-doc-titles/main/screenshots/after.png" width="28%" height="28%">
+
+[Get it here!](https://addons.mozilla.org/de/firefox/addon/nordic-doc-titles/)
 
 This could also work with other sites that use the same tool for documentation, but I have only tested this on Nordic's page.
 
